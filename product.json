@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "price": 2499,
+    "description": "High-quality over-ear headphones with noise cancellation and up to 20 hours of battery life.",
+    "stock": 50
+  },
+  {
+    "name": "Stainless Steel Water Bottle",
+    "price": 599,
+    "description": "Durable and insulated bottle that keeps your drinks hot or cold for hours.",
+    "stock": 120
+  },
+  {
+    "name": "Smart LED Bulb",
+    "price": 899,
+    "description": "WiFi-enabled color-changing bulb compatible with Alexa and Google Assistant.",
+    "stock": 80
+  },
+  {
+    "name": "Portable Laptop Stand",
+    "price": 1199,
+    "description": "Ergonomic aluminum laptop stand for better posture and cooling efficiency.",
+    "stock": 60
+  },
+  {
+    "name": "Wireless Mouse",
+    "price": 499,
+    "description": "Compact, lightweight mouse with smooth tracking and long battery life.",
+    "stock": 200
+  },
+  {
+    "name": "Fitness Smartwatch",
+    "price": 2999,
+    "description": "Water-resistant smartwatch with heart rate monitor, step counter, and sleep tracking features.",
+    "stock": 35
+  }
+]

@@ -2,6 +2,8 @@
 
 A complete Node.js and Express.js backend API for the ShoppyGlobe e-commerce application, featuring user authentication, product management, and shopping cart functionality.
 
+Repo: https://github.com/sharma42-rbg/shoppyglobe-api.git
+
 ## Features
 
 - **User Authentication**: JWT-based registration and login
@@ -44,7 +46,7 @@ A complete Node.js and Express.js backend API for the ShoppyGlobe e-commerce app
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/sharma42-rbg/shoppyglobe-api.git
 cd shoppyglobe-api
 ```
 
